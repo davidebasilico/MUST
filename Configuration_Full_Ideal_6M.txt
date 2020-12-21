@@ -1,5 +1,5 @@
 700	2900	180.	1.	0.95	0.75
-PDFs/JUNO_PDFs_2020_Smoothed.root
+JUNO_PDFs_2020_Smoothed.root
 49.0	0	0
 2.80	0	0
 24.8	0	0
